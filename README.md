@@ -2,6 +2,8 @@
 
 **Software Developer · Backend · Web Applications**
 
+🇧🇷 Brazil
+
 I build and maintain web applications with a focus on **Python, FastAPI, Vue.js and PostgreSQL**.
 
 My work combines software development, API design, automation and infrastructure, with an emphasis on maintainability, security and pragmatic engineering.
@@ -51,7 +53,7 @@ The project is structured as a separate frontend and backend, with a REST API an
 - TrueNAS
 - Cloudflare
 
-**Repository:** [internum-web](https://github.com/pedronora/internum-web) · [internum-api](https://github.com/pedronora/internum-api)
+**Repositories:** [internum-web](https://github.com/pedronora/internum-web) · [internum-api](https://github.com/pedronora/internum-api)
 
 ## Engineering Interests
 
@@ -76,9 +78,9 @@ I value:
 - Reproducible development environments
 - Documentation that stays close to the code
 
-## Learning & Exploration
+## Connect
 
-I also maintain projects and experiments across different languages and technologies as part of continuous learning and exploration.
+[LinkedIn](https://www.linkedin.com/in/pedro-nora/)
 
 ---
 
